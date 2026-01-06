@@ -88,7 +88,7 @@ The Settings screen allows you to configure the device's behavior. There are a f
   - "Bookerly" (default) - Amazon's reading font
   - "Noto Sans" - Google's sans-serif font
   - "Open Dyslexic" - Font designed for readers with dyslexia
-- **Reader Font Size**: Adjust the text size for reading, options are "Small", "Medium", "Large", or "X Large".
+- **Reader Font Size**: Adjust the text size for reading, options are "X Small", "Small", "Medium", "Large", or "X Large".
 - **Reader Line Spacing**: Adjust the spacing between lines, options are "Tight", "Normal", or "Wide".
 - **Check for updates**: Check for firmware updates over WiFi.
 
